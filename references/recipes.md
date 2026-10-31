@@ -42,6 +42,8 @@
 
 ## 3. 非首屏封面 + LQIP
 
+先准备一份清单，把 `variants[w].file` 换成本地或 CDN 地址（下面用 `variants[w].url` 表示）：
+
 ```astro
 <img
   src={cover.lqip}

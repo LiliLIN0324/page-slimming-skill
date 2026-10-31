@@ -87,7 +87,7 @@ Run end to end on an Astro + Cloudflare Pages site. All numbers come from one ma
 
 ## Quick start
 
-**Requirements**: Node.js 18+, local Chrome, Python 3.10+ (`pip install fonttools brotli`); image variants need `npm i -D sharp`.
+**Requirements**: Node.js 18+, local Chrome, Python 3.10+ (`pip install fonttools brotli`); image variants need `npm i -D sharp`. If your interpreter is `python3`, set `PYTHON=python3`.
 
 ```bash
 git clone https://github.com/LiliLIN0324/page-slimming-skill.git

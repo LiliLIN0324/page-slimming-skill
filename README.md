@@ -87,7 +87,7 @@
 
 ## 快速开始
 
-**要求**：Node.js 18+、本机 Chrome、Python 3.10+（`pip install fonttools brotli`）；切图需要 `npm i -D sharp`。
+**要求**：Node.js 18+、本机 Chrome、Python 3.10+（`pip install fonttools brotli`）；切图需要 `npm i -D sharp`。如果本机命令叫 `python3`，先设 `PYTHON=python3`。
 
 ```bash
 git clone https://github.com/LiliLIN0324/page-slimming-skill.git
