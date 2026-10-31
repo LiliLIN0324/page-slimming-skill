@@ -1,0 +1,17 @@
+{
+  "name": "page-slimming-skill",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Slim a site's first screen: measure cold/warm on a real route, then fix images, fonts, heavy runtimes and cache headers with before/after numbers.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "measure": "node scripts/measure-page.mjs",
+    "covers": "node scripts/covers.mjs",
+    "fonts": "python scripts/subset-fonts.py",
+    "check-fonts": "node scripts/check-fonts.mjs"
+  }
+}

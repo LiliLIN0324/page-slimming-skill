@@ -1,0 +1,9 @@
+{
+  "src": ["src"],
+  "extensions": [".astro", ".js", ".mjs", ".ts", ".tsx", ".jsx", ".vue", ".svelte", ".css", ".html"],
+  "fontsDir": "fonts-src",
+  "outDir": "public/fonts",
+  "charset": "scripts/font-charset.json",
+  "versionFiles": ["src/styles/global.css", "src/layouts/Base.astro"],
+  "extraChars": "（）《》「」『』·—…！？：；、，。％℃①②③④⑤⑥⑦⑧⑨⑩×÷±→←↑↓"
+}

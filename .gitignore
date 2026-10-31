@@ -1,0 +1,9 @@
+node_modules/
+out/
+dist/
+build/
+.font-charset.txt
+font-slim.json
+covers.json
+*.log
+.DS_Store

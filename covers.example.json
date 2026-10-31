@@ -1,0 +1,10 @@
+{
+  "outDir": "public/covers",
+  "manifest": "src/data/covers.json",
+  "widths": [960, 1920],
+  "quality": 72,
+  "images": [
+    { "slug": "hero-panorama", "source": "assets/hero-panorama.jpg", "widths": [960, 1920, 2560] },
+    { "slug": "project-one", "source": "assets/project-one.png" }
+  ]
+}
